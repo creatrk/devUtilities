@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "title": "India Launches New AI Policy to Boost Innovation",
+      "description": "The Indian government has introduced a new national AI policy to support startups and research in artificial intelligence.",
+      "url": "https://example.com/ai-policy",
+      "image": "https://via.placeholder.com/400x200?text=AI+Policy"
+    },
+    {
+      "title": "Monsoon Expected to Arrive Early This Year",
+      "description": "Meteorologists predict an early onset of the monsoon in Kerala, bringing relief from the summer heat.",
+      "url": "https://example.com/monsoon-arrival",
+      "image": "https://via.placeholder.com/400x200?text=Monsoon"
+    },
+    {
+      "title": "ISRO Confirms Chandrayaan-4 Mission Planning Underway",
+      "description": "ISRO has started preliminary studies for its next lunar mission, aiming for a manned landing by 2028.",
+      "url": "https://example.com/chandrayaan-4",
+      "image": "https://via.placeholder.com/400x200?text=ISRO"
+    },
+    {
+      "title": "Tech Startups in Bengaluru Raise $2 Billion in Q1",
+      "description": "The first quarter of 2025 saw record-breaking investment in India’s tech capital, with fintech and health tech leading the way.",
+      "url": "https://example.com/startups-bangalore",
+      "image": "https://via.placeholder.com/400x200?text=Startups"
+    },
+    {
+      "title": "India Wins Asia Cup Final Against Pakistan",
+      "description": "India clinched the Asia Cup title with a dominant performance, thrilling fans across the country.",
+      "url": "https://example.com/asia-cup-final",
+      "image": "https://via.placeholder.com/400x200?text=Cricket"
+    }
+  ]
+}
